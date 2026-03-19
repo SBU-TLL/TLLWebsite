@@ -1,7 +1,7 @@
 [
     {
         "title": "Protoform",
-        "link": "https://sbutltmedia.github.io/protoForm/",
+        "link": "https://tltmedia.github.io/protoForm/",
         "tags": [
             "Game"
         ],
@@ -24,7 +24,7 @@
     },
     {
         "title": "Lab Safety",
-        "link": "https://sbutltmedia.github.io/LabSafety/",
+        "link": "https://tltmedia.github.io/LabSafety/",
         "tags": [
             "VR",
             "Game"
@@ -36,7 +36,7 @@
     },
     {
         "title": "Thinking Matter Exericises",
-        "link": "https://sbutltmedia.github.io/ThinkingMattersExercises/menu.html",
+        "link": "https://tltmedia.github.io/ThinkingMattersExercises/menu.html",
         "tags": [
             "Game"
         ],
@@ -47,7 +47,7 @@
     },
     {
         "title": "Nand Contraption Game",
-        "link": "https://sbutltmedia.github.io/ThinkingMattersExercises/nand.html",
+        "link": "https://tltmedia.github.io/ThinkingMattersExercises/nand.html",
         "tags": [
             "Game"
         ],
@@ -58,7 +58,7 @@
     },
     {
         "title": "Word Golf",
-        "link": "https://sbutltmedia.github.io/ThinkingMattersExercises/wordgolf/",
+        "link": "https://tltmedia.github.io/ThinkingMattersExercises/wordgolf/",
         "tags": [
             "Game"
         ],
@@ -69,7 +69,7 @@
     },
     {
         "title": "Isomorphic Tic Tac Toe",
-        "link": "https://sbutltmedia.github.io/ThinkingMattersExercises/Card_Game/",
+        "link": "https://tltmedia.github.io/ThinkingMattersExercises/Card_Game/",
         "tags": [
             "Game"
         ],
@@ -80,7 +80,7 @@
     },
     {
         "title": "Grammar Golf",
-        "link": "https://sbutltmedia.github.io/GrammarGolf/public/",
+        "link": "https://tltmedia.github.io/GrammarGolf/public/",
         "tags": [
             "Game",
             "Graded"
@@ -92,7 +92,7 @@
     },
     {
         "title": "Natural Logic Deduction",
-        "link": "https://sbutltmedia.github.io/DragLogicII/#set=2&problem=1",
+        "link": "https://tltmedia.github.io/DragLogicII/#set=2&problem=1",
         "tags": [
             "Game"
         ],
@@ -127,7 +127,7 @@
     },
     {
         "title": "Heart Basement",
-        "link": "https://sbutltmedia.github.io/HeartBasement/",
+        "link": "https://tltmedia.github.io/HeartBasement/",
         "tags": [
             "Game"
         ],
@@ -138,7 +138,7 @@
     },
     {
         "title": "Gsplat virtual Gallery",
-        "link": "https://sbutltmedia.github.io/CDN/gsplat/",
+        "link": "https://tltmedia.github.io/CDN/gsplat/",
         "tags": [
             "3D Scan"
         ],
@@ -149,7 +149,7 @@
     },
     {
         "title": "Isopod DichotomousKey",
-        "link": "https://sbutltmedia.github.io/CDN/Isopod/dichotomousKey.html",
+        "link": "https://tltmedia.github.io/CDN/Isopod/dichotomousKey.html",
         "tags": [
             "Game"
         ],
@@ -160,7 +160,7 @@
     },
     {
         "title": "ARS205 Virtual Gallery",
-        "link": "https://sbutltmedia.github.io/ARS205/",
+        "link": "https://tltmedia.github.io/ARS205/",
         "tags": [
             "VR",
             "3D Scan"
@@ -172,7 +172,7 @@
     },
     {
         "title": "VR Molocules",
-        "link": "https://sbutltmedia.github.io/aframe-glmol-component/",
+        "link": "https://tltmedia.github.io/aframe-glmol-component/",
         "tags": [
             "VR",
             "Tool"
